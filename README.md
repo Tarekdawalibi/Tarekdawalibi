@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Tarekdawalibi
+- 🌱 I’m currently learning Javascript
 
 
 <!---
