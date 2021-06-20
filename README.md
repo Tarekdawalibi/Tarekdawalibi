@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m @Tarekdawalibi
 - 🌱 I am currently learning more about Front-end development.
+- 📫 How to reach me: b.d@hotmail.it
 -    Studying Computer Engineering at Selcuk University.
 
 
