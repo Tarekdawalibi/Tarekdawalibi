@@ -1,5 +1,10 @@
+
 - 👋 Hi, I’m @Tarekdawalibi
-- 🌱 I’m currently learning Javascript
+- 🌱 I am currently learning more about Front-end development.
+- 
+- 
+- Studying Computer Engineering at Selcuk University.
+
 
 
 <!---
